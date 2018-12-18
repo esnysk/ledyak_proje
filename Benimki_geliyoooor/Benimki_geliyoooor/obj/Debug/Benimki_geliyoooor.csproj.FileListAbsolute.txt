@@ -1,0 +1,45 @@
+c:\users\esna\documents\visual studio 2013\Projects\Benimki_geliyoooor\Benimki_geliyoooor\bin\Debug\Benimki_geliyoooor.exe.config
+C:\Users\esna\documents\visual studio 2013\Projects\Benimki_geliyoooor\Benimki_geliyoooor\bin\Debug\Benimki_geliyoooor.exe
+C:\Users\esna\documents\visual studio 2013\Projects\Benimki_geliyoooor\Benimki_geliyoooor\bin\Debug\Benimki_geliyoooor.pdb
+C:\Users\esna\documents\visual studio 2013\Projects\Benimki_geliyoooor\Benimki_geliyoooor\bin\Debug\AForge.dll
+C:\Users\esna\documents\visual studio 2013\Projects\Benimki_geliyoooor\Benimki_geliyoooor\bin\Debug\AForge.Imaging.dll
+C:\Users\esna\documents\visual studio 2013\Projects\Benimki_geliyoooor\Benimki_geliyoooor\bin\Debug\AForge.Video.DirectShow.dll
+C:\Users\esna\documents\visual studio 2013\Projects\Benimki_geliyoooor\Benimki_geliyoooor\bin\Debug\AForge.Video.dll
+C:\Users\esna\documents\visual studio 2013\Projects\Benimki_geliyoooor\Benimki_geliyoooor\bin\Debug\AForge.Vision.dll
+C:\Users\esna\documents\visual studio 2013\Projects\Benimki_geliyoooor\Benimki_geliyoooor\bin\Debug\AForge.Math.dll
+C:\Users\esna\documents\visual studio 2013\Projects\Benimki_geliyoooor\Benimki_geliyoooor\bin\Debug\AForge.xml
+C:\Users\esna\documents\visual studio 2013\Projects\Benimki_geliyoooor\Benimki_geliyoooor\bin\Debug\AForge.Imaging.xml
+C:\Users\esna\documents\visual studio 2013\Projects\Benimki_geliyoooor\Benimki_geliyoooor\bin\Debug\AForge.Video.xml
+C:\Users\esna\documents\visual studio 2013\Projects\Benimki_geliyoooor\Benimki_geliyoooor\bin\Debug\AForge.Video.DirectShow.xml
+C:\Users\esna\documents\visual studio 2013\Projects\Benimki_geliyoooor\Benimki_geliyoooor\bin\Debug\AForge.Vision.xml
+C:\Users\esna\documents\visual studio 2013\Projects\Benimki_geliyoooor\Benimki_geliyoooor\bin\Debug\AForge.Math.xml
+C:\Users\esna\documents\visual studio 2013\Projects\Benimki_geliyoooor\Benimki_geliyoooor\obj\Debug\Benimki_geliyoooor.csprojResolveAssemblyReference.cache
+C:\Users\esna\documents\visual studio 2013\Projects\Benimki_geliyoooor\Benimki_geliyoooor\obj\Debug\Benimki_geliyoooor.esnakod.resources
+C:\Users\esna\documents\visual studio 2013\Projects\Benimki_geliyoooor\Benimki_geliyoooor\obj\Debug\Benimki_geliyoooor.Properties.Resources.resources
+C:\Users\esna\documents\visual studio 2013\Projects\Benimki_geliyoooor\Benimki_geliyoooor\obj\Debug\Benimki_geliyoooor.csproj.GenerateResource.Cache
+C:\Users\esna\documents\visual studio 2013\Projects\Benimki_geliyoooor\Benimki_geliyoooor\obj\Debug\Benimki_geliyoooor.exe
+C:\Users\esna\documents\visual studio 2013\Projects\Benimki_geliyoooor\Benimki_geliyoooor\obj\Debug\Benimki_geliyoooor.pdb
+C:\Users\esna\Desktop\Benimki_geliyoooor\Benimki_geliyoooor\bin\Debug\Benimki_geliyoooor.exe.config
+C:\Users\esna\Desktop\Benimki_geliyoooor\Benimki_geliyoooor\obj\Debug\Benimki_geliyoooor.exe
+C:\Users\esna\Desktop\Benimki_geliyoooor\Benimki_geliyoooor\obj\Debug\Benimki_geliyoooor.pdb
+C:\Users\esna\Desktop\Benimki_geliyoooor\Benimki_geliyoooor\bin\Debug\Benimki_geliyoooor.exe
+C:\Users\esna\Desktop\Benimki_geliyoooor\Benimki_geliyoooor\bin\Debug\Benimki_geliyoooor.pdb
+C:\Users\esna\Desktop\Benimki_geliyoooor\Benimki_geliyoooor\bin\Debug\AForge.dll
+C:\Users\esna\Desktop\Benimki_geliyoooor\Benimki_geliyoooor\bin\Debug\AForge.Imaging.dll
+C:\Users\esna\Desktop\Benimki_geliyoooor\Benimki_geliyoooor\bin\Debug\AForge.Video.DirectShow.dll
+C:\Users\esna\Desktop\Benimki_geliyoooor\Benimki_geliyoooor\bin\Debug\AForge.Video.dll
+C:\Users\esna\Desktop\Benimki_geliyoooor\Benimki_geliyoooor\bin\Debug\AForge.Vision.dll
+C:\Users\esna\Desktop\Benimki_geliyoooor\Benimki_geliyoooor\bin\Debug\AForge.Math.dll
+C:\Users\esna\Desktop\Benimki_geliyoooor\Benimki_geliyoooor\bin\Debug\AForge.xml
+C:\Users\esna\Desktop\Benimki_geliyoooor\Benimki_geliyoooor\bin\Debug\AForge.Imaging.xml
+C:\Users\esna\Desktop\Benimki_geliyoooor\Benimki_geliyoooor\bin\Debug\AForge.Video.xml
+C:\Users\esna\Desktop\Benimki_geliyoooor\Benimki_geliyoooor\bin\Debug\AForge.Video.DirectShow.xml
+C:\Users\esna\Desktop\Benimki_geliyoooor\Benimki_geliyoooor\bin\Debug\AForge.Vision.xml
+C:\Users\esna\Desktop\Benimki_geliyoooor\Benimki_geliyoooor\bin\Debug\AForge.Math.xml
+C:\Users\esna\Desktop\Benimki_geliyoooor\Benimki_geliyoooor\obj\Debug\Benimki_geliyoooor.csprojResolveAssemblyReference.cache
+C:\Users\esna\Desktop\Benimki_geliyoooor\Benimki_geliyoooor\obj\Debug\Benimki_geliyoooor.esnakod.resources
+C:\Users\esna\Desktop\Benimki_geliyoooor\Benimki_geliyoooor\obj\Debug\Benimki_geliyoooor.Properties.Resources.resources
+C:\Users\esna\Desktop\Benimki_geliyoooor\Benimki_geliyoooor\obj\Debug\Benimki_geliyoooor.csproj.GenerateResource.Cache
+C:\Users\esna\Desktop\Benimki_geliyoooor - Kopya\Benimki_geliyoooor\bin\Debug\Benimki_geliyoooor.exe.config
+C:\Users\esna\Desktop\Benimki_geliyoooor - Kopya\Benimki_geliyoooor\obj\Debug\Benimki_geliyoooor.exe
+C:\Users\esna\Desktop\Benimki_geliyoooor - Kopya\Benimki_geliyoooor\obj\Debug\Benimki_geliyoooor.pdb
